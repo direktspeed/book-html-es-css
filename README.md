@@ -8,3 +8,4 @@ i will base this book on my "ECMAScript Stealify - Unleash the Power of Encapsul
 - Dec64 and the int32 * int32 === int63 || int32 krux
 - JavaScript was designed as a Language For Beginners
 - confusion is a bug we want to avoid everytime we get confusion and unexpected behavior we need to fix that.
+- ++ is bad += 1 is better
