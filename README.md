@@ -10,3 +10,4 @@ i will base this book on my "ECMAScript Stealify - Unleash the Power of Encapsul
 - confusion is a bug we want to avoid everytime we get confusion and unexpected behavior we need to fix that.
 - ++ is bad += 1 is better
 - proper tail calls without adddtion to the existing stack. (can be some how shimed via setImmidiate
+- Dr SeS https://medium.com/agoric/ses-securing-javascript-in-the-real-world-4f309e6b66a6 a Secure SubSet 
