@@ -11,3 +11,17 @@ i will base this book on my "ECMAScript Stealify - Unleash the Power of Encapsul
 - ++ is bad += 1 is better
 - proper tail calls without adddtion to the existing stack. (can be some how shimed via setImmidiate
 - Dr SeS https://medium.com/agoric/ses-securing-javascript-in-the-real-world-4f309e6b66a6 a Secure SubSet 
+
+
+
+## Like Erlang
+We have ways to build better CPU's for Compiled Machine Code directly see examples also like misty from Douglas Crockford
+
+## Why?
+
+Today you learn that Web Development is about a Framework for example React or Angular or any Other i think that leads to wrong educated developers.
+
+## Todo
+- Angular Hero Tutorial (using tag-html) as snippet lib
+- R
+
